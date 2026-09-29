@@ -1,4 +1,4 @@
-Estudo de Caso 3: Oficina e Auto Center Veloz
+Estudo de Caso 3: Oficina e Auto Center Velozhttps://github.com/7XxTerraxX/Estudo-de-caso-3/security
 
 Cenário Atual
 
@@ -23,13 +23,13 @@ Solução
 
 A primeira coisa que podem fazer é criar um atendimento online, onde o cliente acompanha tudo pelo celular, sem precisar ligar para a oficina. Com a ajuda de IA, o sistema responde as mensagens de maneira rápida e eficiente, liberando as recepcionistas para atender quem está no balcão.
 
-Pelo sistema, o cliente acompanha o status do carro em tempo real (recebido, em diagnóstico, aguardando aprovação, em conserto e pronto para retirada) e recebe o orçamento digital com fotos das peças com defeito, que o mecânico anexa direto no sistema. Assim, ele aprova com um clique, sem demorar horas respondendo mensagem e o concerto começa mais rápido, diminuindo o tempo dos carros no pátio.
+Pelo sistema, o cliente acompanha o status do carro em tempo real (recebido, em diagnóstico, aguardando aprovação, em concerto e pronto para retirada) e recebe o orçamento digital com fotos das peças com defeito, que o mecânico anexa direto no sistema. Assim, ele aprova com um clique, sem demorar horas respondendo mensagem e o concerto começa mais rápido, diminuindo o tempo dos carros no pátio.
 
 Os mecânicos atualizam o status direto no painel interno, sem pararem o trabalho para responder à recepção, e a informação chega ao cliente automaticamente.
 
 Essa solução também fortalece a transparência e a confiança técnica da oficina: o cliente vê as fotos das peças, entende o que está sendo trocado e confia no preço, que continua justo.
 
-Como reforço, fora do digital, a oficina pode contratar mais funcionários e, se o espaço continuar pequeno, aumentar os elevadores automotivos, que hoje são só cinco, aumentando o tempo de conserto dos carros.
+Como reforço, fora do digital, a oficina pode contratar mais funcionários e, se o espaço continuar pequeno, aumentar os elevadores automotivos, que hoje são só cinco, aumentar o tempo de conserto dos carros.
 
 
 ## Protótipos
