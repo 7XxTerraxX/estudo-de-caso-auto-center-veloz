@@ -50,4 +50,4 @@ A solução é um site responsivo (web app) com duas áreas:
 
 ### Painel interno — equipe da oficina
 
-![Painel interno](prototipos/painel-inteiro.png)****
+![Painel interno](prototipos/painel-inteiro.png)
