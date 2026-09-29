@@ -32,10 +32,10 @@ Essa solução também fortalece a transparência e a confiança técnica da ofi
 Como reforço, fora do digital, a oficina pode contratar mais funcionários e, se o espaço continuar pequeno, aumentar os elevadores automotivos, que hoje são só cinco, aumentar o tempo de conserto dos carros.
 
 
-## Protótipos
+Protótipos
 
-### Tela do cliente — acompanhamento e aprovação de orçamento
-![Tela do cliente](tela-cliente.png)
+Tela do cliente — acompanhamento e aprovação de orçamento
 
-### Painel interno — equipe da oficina
-![Painel interno](painel-interno.png)
+![Tela do cliente](prototipos/tela-cliente.png)
+
+![Painel interno](prototipos/painel-inteiro.png)
